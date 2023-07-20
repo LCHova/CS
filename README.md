@@ -1,1 +1,1 @@
-# CS
+# technical-interview-studying
